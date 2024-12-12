@@ -11,6 +11,7 @@ export default function Inicio() {
         DECORACIÓN Y AMBIENTACIÓN DE MESAS DULCES TEMATICAS PARA TU EVENTO
       </p>
       <img className="image2" src={img1} alt="Torta y Bonete" />
-    </section></>
+    </section>
+    </>
   )
 }

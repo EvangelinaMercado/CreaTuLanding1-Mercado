@@ -1,5 +1,7 @@
+import { Galeria } from "./components/Galeria"
 import { Header } from "./components/header"
 import Inicio from "./components/Inicio"
+import { ItmeListContainer } from "./components/ItmeListContainer"
 
 
 function App() {
@@ -8,6 +10,8 @@ function App() {
     <>
    <Header/>
    <Inicio/>
+   <Galeria/>
+   <ItmeListContainer mensaje={"Bienvenidos a Nuestra Pagina Web"}/>
   
       
     </>
